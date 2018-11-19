@@ -1,8 +1,8 @@
 export const defaults = {
-  DATE_FORMAT: 'YYYY-MM-DD',
+  DATE_FORMAT: 'DD-MM-YYYY',
   COLOR: 'primary',
-  WEEKS_FORMAT: ['S', 'M', 'T', 'W', 'T', 'F', 'S'],
-  MONTH_FORMAT: ['JAN', 'FEB', 'MAR', 'APR', 'MAY', 'JUN', 'JUL', 'AUG', 'SEP', 'OCT', 'NOV', 'DEC']
+  WEEKS_FORMAT: ['D', 'S', 'T', 'Q', 'Q', 'S', 'S'],
+  MONTH_FORMAT: ['JAN', 'FEV', 'MAR', 'ABR', 'MAI', 'JUN', 'JUL', 'AGO', 'SET', 'OUT', 'NOV', 'DEZ']
 };
 
 export const pickModes = {
